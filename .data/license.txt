@@ -1,0 +1,18 @@
+許可事項
+a. 非商用利用 - 本ゲームは個人的な使用での利用が許可されています。
+b. 商用利用 - 本ゲームの商用利用には、著作権者からの明示的な許可が必要です。
+
+禁止事項
+a. 本ゲームの逆コンパイル、逆アセンブル、リバースエンジニアリングは禁止されています。
+b. いかなる場合も本ライセンスの再配布は許可されません。
+c. 本ゲームの再配布および複製、改変は禁止されています。
+
+Permissions
+a. Non-Commercial Use - Personal use of this game is permitted.
+b. Commercial Use - Commercial use of this game requires explicit permission from the copyright holder.
+
+Prohibited Actions
+a. Reverse compiling, disassembling, and reverse engineering of this game are prohibited.
+b. Redistribution of this license under any circumstances is not permitted.
+c. Redistribution, reproduction, and modification of this game are prohibited.
+
