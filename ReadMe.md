@@ -67,3 +67,4 @@
 <span style="color: red;background-color:#dddddd;">手数は超えているがクリア</span>
 
 ![rule](./.img/rule2.png)
+![playing](./.img/SHIFT.mp4)
