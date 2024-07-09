@@ -30,9 +30,9 @@
 
 ## 2. ゲームルール
 2つの盤面で**同時に**プレイヤー<img src="./.data/images/Field/player.GIF" width=15>がゴールマス<img src="./.data/images/Field/goal.GIF" width=15>にいればクリアです。<br>
-画面上部に書かれた**0/4**は手数を表しています。このステージでは**4回の操作**でクリアする必要があります。
+画面上部に書かれた**0/4 や 0/6**は手数を表しています。0/4 のときは**4回の操作**でクリアする必要があります。
 
-![rule](./.img/rule1.png)
+![playing](./.img/SHIFT.gif)
 
 ## 3. 操作方法
 |操作|キー|
@@ -67,4 +67,3 @@
 <span style="color: red;background-color:#dddddd;">手数は超えているがクリア</span>
 
 ![rule](./.img/rule2.png)
-![playing](./.img/SHIFT.mp4)
